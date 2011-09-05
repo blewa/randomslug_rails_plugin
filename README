@@ -1,0 +1,16 @@
+Randomslug
+==========
+
+Randomslug is designed to give you easy-to-type slugs IDs.  The slugs are
+generated with SecureRandom and are only lowercase alpha chararacters to help
+eliminate confusion that can come from font similarities.
+
+
+Example
+=======
+
+>> randomslug(8)
+=> "ajadngzu"
+
+
+Copyright (c) 2011 Aaron Blew, released under the MIT license
